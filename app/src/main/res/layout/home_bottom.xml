@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/main_bottom_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:src="@drawable/message">
+
+    </ImageView>
+
+    <ImageView
+        android:id="@+id/main_bottom_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:src="@drawable/lof_of_people">
+
+    </ImageView>
+
+    <ImageView
+        android:id="@+id/main_bottom_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:src="@drawable/myfriends_info">
+
+    </ImageView>
+
+    <ImageView
+        android:id="@+id/main_bottom_4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:src="@drawable/user_info">
+
+    </ImageView>
+
+</LinearLayout>
